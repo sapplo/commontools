@@ -1,0 +1,8 @@
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\bin\Release\SapphireLo.Tools.dll
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\bin\Release\SapphireLo.Tools.pdb
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\bin\Release\Newtonsoft.Json.dll
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\bin\Release\Newtonsoft.Json.xml
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\obj\Release\SapphireLo.Tools.csproj.CoreCompileInputs.cache
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\obj\Release\SapphireLo.Tools.csproj.CopyComplete
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\obj\Release\SapphireLo.Tools.dll
+E:\Sapphirelo.SiteInfos\SapphireLo.IdSale\SapphireLo.Tools\obj\Release\SapphireLo.Tools.pdb
